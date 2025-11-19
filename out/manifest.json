@@ -1,0 +1,16 @@
+{
+  "name": "BASEONE - Air Minum Demineral Murni",
+  "short_name": "BASEONE",
+  "description": "PT. Delta Baseone Artha - Air minum dalam kemasan dengan teknologi demineral tercanggih",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
